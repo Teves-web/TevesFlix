@@ -43,7 +43,7 @@ header nav a:hover {
 /*Série principal*/
 .serie-principal {
   font-size: 16px;
-  background: url('/img/capa3-rick.jpg');
+  background: url('/img/capa-rick.jpg');
 
   height: 600px;
   background-size: cover;
